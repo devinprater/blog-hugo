@@ -4,7 +4,8 @@ categories:
 - apple
 - text
 date: "2020-04-16T01:47:34Z"
-title- Writing Richly: why Markdown system wide can improve writing and reading
+title: Writing Richly
+description: Why Markdown system wide can improve writing and reading
 ---
 
 Whenever you read a text message, forum post, Tweet, or Facebook
