@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
 - tech
 - blindness
 date: "2020-02-13T15:13:23Z"

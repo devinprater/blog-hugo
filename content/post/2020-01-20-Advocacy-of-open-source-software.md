@@ -1,8 +1,5 @@
 ---
-categories:
-- open-source
-- advocacy
-- blindness
+tags: ["open-source", "blindness"]
 date: "2020-01-20T00:00:00Z"
 title: Advocacy of open source software
 ---

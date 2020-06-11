@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
 - open-source
 - blindness
 - advocacy

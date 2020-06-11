@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
 - copyright
 - blindness
 date: "2020-02-20T03:35:06Z"

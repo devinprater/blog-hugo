@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
 - apple
 - blindness
 - tech

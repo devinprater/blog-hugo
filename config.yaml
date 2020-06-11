@@ -17,6 +17,7 @@ imaging:
   quality: 99
 
 params:
+  hideHeaderLinks: true
   description: Devin Prater’s blog and site.
   homeMetaContent: Devin Prater’s blog and site.
   footer: Made with Hugo, hosted with Github Pages.

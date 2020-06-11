@@ -1,5 +1,5 @@
 ---
-categories: news
+tags:
 date: "2020-03-07T16:08:22Z"
 title: open source news
 ---

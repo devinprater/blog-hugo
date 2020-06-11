@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
 - tech
 - blindness
 - text

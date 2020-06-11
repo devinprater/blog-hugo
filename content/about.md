@@ -9,7 +9,7 @@ weight: 3
 
 ## About the blogger
 
-My name is Devin Prater. I’m a 25 year old technical assistant,
+My name is Devin Prater. I’m a 26 year old technical assistant,
 Christian, gamer, accessibility advocate, blind person, Science
 Fiction and Fantasy reader, and computer aficionado. I come from the
 state of Alabama, where things move slow and there’s cornbread and
