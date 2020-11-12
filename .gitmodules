@@ -4,4 +4,4 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/devinprater/devinprater.github.io.git
-	branch = master
+
